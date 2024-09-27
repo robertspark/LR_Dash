@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=LR_Dash
+Description=Wallpaper only
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/LR_Dash
+ScriptFile=/usr/share/plymouth/themes/LR_Dash/LR_Dash.script
